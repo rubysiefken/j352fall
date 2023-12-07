@@ -1,0 +1,19 @@
+h1 {color:#D5E7F2;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+}
+h2 {color:#D5E7F2;
+  font-family: 'Oswald', sans-serif;
+}
+h3 {color:#223240;
+ font-family: 'Oswald', sans-serif;
+  font-style: italic;
+}
+p {color:#223240;
+  font-family: 'Manrope', sans-serif}
+
+.introBox {background-color:#3C4C59;
+text-align:center}
+.orbit {background-color:#A68A80; padding:20px}
+.card {padding:10px}
+footer {background-color:#3C4C59}
